@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lemaTxt" max="32767" attributes="0"/>
+                      <Component id="segundaTxt" alignment="1" max="32767" attributes="0"/>
+                      <Component id="tituloTxt" max="32767" attributes="0"/>
+                      <Component id="primeraTxt" alignment="0" max="32767" attributes="0"/>
+                      <Component id="terceraTxt" alignment="0" max="32767" attributes="0"/>
+                      <Component id="cuartaTxt" alignment="0" max="32767" attributes="0"/>
+                      <Component id="quintaTxt" alignment="0" max="32767" attributes="0"/>
+                      <Component id="sextaTxt" alignment="0" max="32767" attributes="0"/>
+                      <Component id="septimaTxt" alignment="0" max="32767" attributes="0"/>
+                      <Component id="occhoTxt" alignment="0" max="32767" attributes="0"/>
+                      <Component id="nueveTxt" alignment="0" max="32767" attributes="0"/>
+                      <Component id="diezTxt" alignment="0" pref="1370" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="tituloTxt" pref="45" max="32767" attributes="0"/>
+                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                  <Component id="primeraTxt" pref="27" max="32767" attributes="0"/>
+                  <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                  <Component id="segundaTxt" max="32767" attributes="0"/>
+                  <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                  <Component id="terceraTxt" max="32767" attributes="0"/>
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
+                  <Component id="cuartaTxt" max="32767" attributes="0"/>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="quintaTxt" max="32767" attributes="0"/>
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
+                  <Component id="sextaTxt" pref="27" max="32767" attributes="0"/>
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
+                  <Component id="septimaTxt" max="32767" attributes="0"/>
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
+                  <Component id="occhoTxt" pref="24" max="32767" attributes="0"/>
+                  <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                  <Component id="nueveTxt" max="32767" attributes="0"/>
+                  <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                  <Component id="diezTxt" max="32767" attributes="0"/>
+                  <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+                  <Component id="lemaTxt" max="32767" attributes="0"/>
+                  <EmptySpace min="-2" pref="281" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="tituloTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Bienvenido {nombre}:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="primeraTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Sistema de gesti&#xf3;n para bar/restaurante. Controle y administre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="segundaTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="de forma &#xf3;ptima y f&#xe1;cil el flujo de trabajo."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="terceraTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Esta herramienta le permitir&#xe1; llevar un control completo y detallado de su bar/restaurante"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="cuartaTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="tendr&#xe1; acceso a herramientas especiales para tareas espec&#xed;ficas, como por ejemplo:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="quintaTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="&#x2014; La tabla de sus empleados donde puede a&#xf1;adir o quitar, as&#xed; como ver el n&#xfa;mero de ventas de cada uno."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="sextaTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="&#x2014; Los productos de los que dispone, as&#xed; como a&#xf1;adir m&#xe1;s o quitar si ya no lo quisiera."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="septimaTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="&#x2014; Registro de clientes, de las compras realizadas, podr&#xe1; a&#xf1;adir o quitar clientes."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="occhoTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="&#x2014; Listado de ventas realizadas, pudiendo filtrar por d&#xed;as, meses, clientes, etc&#x2026;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="nueveTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="&#x2014; Acceso a la TPV donde podr&#xe1; realizar las ventas."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="diezTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="&#x2014; Tambi&#xe9;n dispone de una pesta&#xf1;a de reportes donde podr&#xe1; poner dudas o fallos encontrados, donde le atenderemos lo antes posible."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lemaTxt">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/com/alvarobajo/img/happy_smiley_icon-icons.com_49910.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="WORK HAPPY, HAVE FUN, MAKE HISTORY."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
